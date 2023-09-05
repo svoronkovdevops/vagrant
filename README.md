@@ -66,6 +66,13 @@ Download from http://vagrant.com installer -> (C:\vargant)
 
 `vagrant status` - show status
 
+`/home/vagrant` - home folder
+
+`vagrant` - root user
+
+`vagrant` - password for root user
+
+`vagrant reload --provision` - reload changed vagrantfile when your vm is working
 
 [Content](#content)
 
